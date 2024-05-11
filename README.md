@@ -30,6 +30,7 @@ Então como pode-se ver, o aplicativo é acessível para qualquer pessoa em qual
 *PRIMEIROS PASSOS*
 
 Com a IA da Gemini, utilizei o Google AI Studio para criar duas IA's. A primeira será responsável por entender qual site o usuário deseja acessar, sem a necessidade de digitar o link completo. Por exemplo, se o usuário digitar "youtube", a IA retorna https://youtube.com.br, e o mesmo para outros sites.
+A segunda IA, realiza o trabalho bruto e parte para a ação: a descrição. Ela será explorada nos próximos tópicos.
 
 *CRIANDO ÁUDIOS*
 

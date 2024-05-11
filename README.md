@@ -1,5 +1,9 @@
 # Descritor de imagens em websites para pessoas com deficiência visual
 
+*INTRODUÇÂO*
+
+O tema da acessibilidade vem sendo discutido há tempos nos mais diversos meios que se possa imaginar, e na internet não é diferente. Tornar a internet acessível para o máximo de pessoas possível é um desafio atual que o mundo inteiro enfrenta. Seja com uma leitura, uma análise visual ou uma dificuldade em acessar alguma tecnologia, buscar formas de melhorar as condições de acesso à todos é um passo muito importante para a tecnologia. Por isso, criei este projeto, o Descritor de Imagens, como forma de tentar auxiliar no dia a dia daqueles que experienciam dificuldades em relação às imagens digitais.
+
 *OBJETIVO*
 
 O objetivo do meu "aplicativo" foi proporcionar uma melhor imersão às pessoas com deficiência visual quando o assunto é o acesso a sites na internet.
@@ -14,9 +18,11 @@ Antes de tudo, no algoritmo que criei, há a coleta do idioma em que o computado
 Como é possível obervar pelo código, o idioma é coletado, e instatâneamente a mensagem base "Qual site você estará acessando" é traduzida para o idioma que o sistema do usuário retornar.
 
 Exemplo em inglês:
+
 ![image](https://github.com/GuiifCorso/Alura-Gemini/assets/72671487/e5a726ca-2ad4-41c5-a22d-f4aa816ef4b1)
 
 Exemplo em japonês:
+
 ![image](https://github.com/GuiifCorso/Alura-Gemini/assets/72671487/fb219b3f-300f-4c72-abbc-641f625c44e2)
 
 Então como pode-se ver, o aplicativo é acessível para qualquer pessoa em qualquer idioma. Isso ainda será utilizado ao decorrer do código.
@@ -40,7 +46,7 @@ Com o site em mãos, criei um algoritmo que analisa todas as imagens da tela, as
 *CONFIGURANDO A IA PRINCIPAL*
 
 A IA principal do projeto é aquela que descreve as imagens e, portanto, deve ser bem definida. Criei uma system instruction para ela que garanta que a descrição das imagens será detalhada e completa, mas ao mesmo tempo curta, já que descrições muito longas não são tão efetivas assim.
-O que a IA recebe d e input é a mensagem "Descreva esta imagem ná lingua{lang}:", onde em {lang} é colocado o idioma do sistema do usuário, garantindo a acessibilidade até o fim. Em seguida, é feito o upload da imagem 1, e enfim a IA começa seu trabalho.
+O que a IA recebe de input é a mensagem "Descreva esta imagem na língua{lang}:", onde em {lang} é colocado o idioma do sistema do usuário, garantindo a acessibilidade até o fim. Em seguida, é feito o upload da imagem 1, e enfim a IA começa seu trabalho.
 
 ![image](https://github.com/GuiifCorso/Alura-Gemini/assets/72671487/103573a4-0f38-474e-b6f6-09d5354431e2)
 

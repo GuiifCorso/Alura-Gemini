@@ -68,6 +68,8 @@ Bom, o que não poderia ficar de fora eram os resultados, óbvio. E aqui estão 
 
 "A imagem mostra uma inundação extensa em uma área urbana. Um rio de cor marrom-avermelhada, cheio e turvo, invadiu as ruas e edifícios. Um grande prédio antigo, que parece ser um antigo armazém ou estação ferroviária, está parcialmente submerso pelas águas da enchente. O telhado do prédio, com telhas escuras e desgastadas, oferece um contraste com a água lamacenta.  À direita, uma estrada elevada permanece acima do nível da água, com carros trafegando em meio à chuva. Ao fundo, é possível avistar o rio, igualmente cheio e com a mesma coloração marrom-avermelhada, sugerindo a magnitude da inundação. No céu, nuvens densas e escuras indicam um dia chuvoso. A cena transmite um senso de caos e destruição causados pela força da natureza. "
 
+OBS: doar.acnur.org
+
 *INGLÊS*
 
 ![image](https://github.com/GuiifCorso/Alura-Gemini/assets/72671487/def3e783-e774-4c6e-a0af-3e4ee5f41915)

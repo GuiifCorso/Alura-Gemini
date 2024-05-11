@@ -1,8 +1,8 @@
-# Descritor de imagens em websites para pessoas com deficiência visual
+# Descritor de imagens em websites para pessoas com deficiência visual - AI'Eye
 
 *INTRODUÇÂO*
 
-O tema da acessibilidade vem sendo discutido há tempos nos mais diversos meios que se possa imaginar, e na internet não é diferente. Tornar a internet acessível para o máximo de pessoas possível é um desafio atual que o mundo inteiro enfrenta. Seja com uma leitura, uma análise visual ou uma dificuldade em acessar alguma tecnologia, buscar formas de melhorar as condições de acesso à todos é um passo muito importante para a tecnologia. Por isso, criei este projeto, o Descritor de Imagens, como forma de tentar auxiliar no dia a dia daqueles que experienciam dificuldades em relação às imagens digitais.
+O tema da acessibilidade vem sendo discutido há tempos nos mais diversos meios que se possa imaginar, e na internet não é diferente. Tornar a internet acessível para o máximo de pessoas possível é um desafio atual que o mundo inteiro enfrenta. Seja com uma leitura, uma análise visual ou uma dificuldade em acessar alguma tecnologia, buscar formas de melhorar as condições de acesso à todos é um passo muito importante para a tecnologia. Por isso, criei este projeto, o Descritor de Imagens, ou melhor, o AI'Eye, como forma de tentar auxiliar no dia a dia daqueles que experienciam dificuldades de abstração em relação às imagens digitais.
 
 *OBJETIVO*
 
@@ -34,9 +34,10 @@ A segunda IA, realiza o trabalho bruto e parte para a ação: a descrição. Ela
 
 *CRIANDO ÁUDIOS*
 
-No seguinte bloco, tentei adicionar um código que criaria áudios que seriam tocados durante o uso do aplicativo, porém como a biblioteca Playsound, e todas as outras de áudio que testei não estavam funcionando, consegui somente criar o áudio, mas não tocá-lo :(
+Estarei tentando aplicar áudios no programa, porém as bibliotecas que conheço para isso estão com algum problema em relação ao Collab. Novidades no final do arquivo na seção de atualizações.
+Nessa etapa, temos a função que cria os áudios no idioma do usuário e em seguida outra função para tocar os áudios.
 
-![image](https://github.com/GuiifCorso/Alura-Gemini/assets/72671487/502d7a50-7204-460c-8ca1-036d2af97542)
+![image](https://github.com/GuiifCorso/Alura-Gemini/assets/72671487/3c5c4516-21d2-4dee-9262-46e07edf3900)
 
 *CRIANDO IMAGENS*
 
@@ -90,6 +91,14 @@ Como podemos ver, o programa atinge um resultado ótimo para descrever as imagen
 
 Espero que tenham gostado da explicação e da aplicação. Fiz com o intuito de ser algo que proponha a acessibilidade necessária para aqueles com maior dificuldade. Fiquei contente com o resultado final, e acredito que o código, junto da IA, supre o objetivo proposto.
 
-Como próximos passos, gostaria de implementar a função de áudio para a comunicação do programa com o usuário e conseguir selecionar as imagens mais relevantes para o site (existem muitas imagens que as vezes servem somente de decoração e mesmo assim vão parar no arquivo do código). Talvez ter uma função de descrição enquanto o usuário rola pela página seja interessante também, mas são funções que ainda não sei como incrementar.
 
+# ATUALIZAÇÃO
+
+*IMPLEMENTAÇÃO DE ÁUDIO*
+
+Como última atualização realizada no dia 11/05, consegui incluir o play de áudios durante o uso do aplicativo. Agora qualquer comando e descrição terá uma voz narradora no idioma do usuário para auxiliar na imersão.
+
+![image](https://github.com/GuiifCorso/Alura-Gemini/assets/72671487/674e9f14-a54b-4324-89ff-0d9ba9ec96df)
+
+Fique a vontade para testar o programa e reportar quaisquer erros!
 Muito obrigado pela atenção!
